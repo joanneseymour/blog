@@ -1,0 +1,51 @@
+.primary-dark-bg{
+    background-color: #262729;
+}
+
+.primary-dark{
+    color: #262729;
+}
+
+.accent-bg{
+    background-color: #fee3ae;
+}
+
+.accent{
+    color: #fee3ae;
+}
+
+.primary-bg{
+    background-color: #36373b;
+}
+
+.secondary-bg{
+    background-color: #999d9d;
+}
+
+.secondary{
+    color: #999d9d;
+}
+
+.white-bg{
+    background-color: white;
+}
+
+.white{
+    color: white;
+}
+
+.black-bg{
+    background-color: #010101;
+}
+
+.black{
+    color: #010101;
+}
+
+.error-bg{
+    background-color: #B00020;
+}
+
+.error{
+    color: #B00020;
+}
